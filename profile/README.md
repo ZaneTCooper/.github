@@ -46,3 +46,14 @@ Here, we host our public code, documentation and manuals.
 **Tutorials GEDI**
 - [Tutorial GEDI practical Advanced Remote Sensing](https://github.com/qforestlab/ARS_GEDI_course)
 
+## Vegetation Modelling
+
+**Tutorials**
+- [Getting started on UGent hpc cluster](https://github.com/qforestlab/UGent-hpc-introduction)
+- [ED2 tutorial](https://github.com/sdeherto/ED2support)
+- [CLM-FATES tutorial](https://github.com/sdeherto/CLM-FATES4UGent)
+
+**Models**
+- [FATES](https://github.com/NGEET/fates)
+- [ED2](https://github.com/EDmodel/ED2)
+- [NOAH-MP](https://github.com/NCAR/noahmp)
